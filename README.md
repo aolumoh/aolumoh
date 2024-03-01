@@ -1,9 +1,12 @@
 ![](./assets/languages.png)
+
+
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/aolumoh/aolumoh/blob/main/assets/git-banner.png" alt=”my banner”>
+<img src="https://github.com/aolumoh/aolumoh/blob/main/assets/git-banner.png" alt="my banner">
 
 </p>
+
 ## About me
 
 Hey there, I'm Abdulmalik Olumoh, an IT student based in Winnipeg, Canada. 
