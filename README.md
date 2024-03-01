@@ -22,4 +22,4 @@ Get in touch. I look forward to hearing from you.
 
 ##
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aolumoh&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aolumoh&bg_color=0c1014&color=ffffff&line=800080&point=e0d7d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
