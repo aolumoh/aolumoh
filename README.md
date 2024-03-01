@@ -1,11 +1,4 @@
-![](./assets/languages.png)
-
-
-<p align=”center”>
-
-<img src="https://github.com/aolumoh/aolumoh/blob/main/assets/git-banner.png" alt="my banner">
-
-</p>
+![](./assets/git-banner-resized.png)
 
 ## About me
 
