@@ -6,7 +6,7 @@ Hey there, I'm Abdulmalik Olumoh, an IT student based in Winnipeg, Canada.
 
 My programming experience includes Java, JavaScript, HTML and CSS. 
 
-I'm currently focusing on improving my skills as a Software Developer with tools such as React.js, 
+I'm currently studying to improve my skills as a Software Developer with tools such as React.js, 
 C#, relational database design, API's, LINQ and ASP.Net MVC. Would you like to know more?
 Get in touch, I look forward to hearing from you!
 
