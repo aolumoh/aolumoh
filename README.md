@@ -15,9 +15,14 @@ Get in touch, I look forward to hearing from you!
 ### My skills
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=800080"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=800080")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=800080")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=800080")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-asp.net-informational?style=for-the-badge&logo=asp.net&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-linq-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=800080"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-sql-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=800080"/>&nbsp;
 </p>
 
 ##
