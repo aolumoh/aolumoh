@@ -2,14 +2,21 @@
 
 ## About me
 
-Hey there, I'm Abdulmalik Olumoh, an IT student based in Winnipeg, Canada. 
+Hey there, I'm Abdulmalik Olumoh, a software developer based in Winnipeg, Canada, passionate about using technology to create meaningful solutions.
 
-My programming experience includes Java, JavaScript, HTML and CSS. 
+My programming experience includes:
 
-I'm currently studying to improve my skills as a Software Developer with tools such as React.js, 
-C#, relational database design, API's, LINQ and ASP.Net MVC. Would you like to know more?
-Get in touch, I look forward to hearing from you!
+Languages: C#, Java, JavaScript, HTML, CSS
 
+Frameworks & Tools: Unity, React, .NET MVC, unit testing frameworks like Moq
+
+Database: Relational database design. I'm dedicated to improving my skills and have worked with API development, LINQ, and various other modern tools.
+
+Beyond technical skills, my background in customer-facing roles has honed my communication, problem-solving, and team collaboration abilities. I thrive in high-pressure environments, maintaining a friendly and empathetic approach that builds trust and drives positive results. This blend of technical expertise and customer service experience allows me to deliver tailored solutions and enhance systems effectively.
+
+What drives me most is seeing the impact of my work, especially when it improves lives or brings positive change to communities. Whether troubleshooting issues, developing software, or playing basketball, I aim to grow and learn from every experience.
+
+I’m excited to connect and contribute to projects that make a difference. Let’s collaborate to create a better world!
 ##
 
 ### My skills
